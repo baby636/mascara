@@ -34,7 +34,7 @@
     "eslint": "^4.17.0",
     "eslint-config-airbnb-base": "^12.1.0",
     "eslint-plugin-import": "^2.8.0",
-    "ethjs-query": "^0.2.9",
+    "ethjs-query": "^0.3.8",
     "express": "^4.15.4",
     "watchify": "^3.9.0"
   }
