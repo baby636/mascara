@@ -23,19 +23,19 @@
   "dependencies": {
     "iframe": "^1.0.0",
     "iframe-stream": "^3.0.0",
-    "json-rpc-engine": "^3.1.0",
-    "json-rpc-middleware-stream": "^1.0.0",
+    "json-rpc-engine": "^5.0.0",
+    "json-rpc-middleware-stream": "^2.1.1",
     "obj-multiplex": "^1.0.0",
-    "obs-store": "^2.4.1",
+    "obs-store": "^4.0.0",
     "pump": "^1.0.2"
   },
   "devDependencies": {
     "browserify": "^14.4.0",
-    "eslint": "^4.17.0",
+    "eslint": "^5.5.0",
     "eslint-config-airbnb-base": "^12.1.0",
     "eslint-plugin-import": "^2.8.0",
     "ethjs-query": "^0.2.9",
     "express": "^4.15.4",
-    "watchify": "^3.9.0"
+    "watchify": "^4.0.0"
   }
 }
