@@ -36,6 +36,6 @@
     "eslint-plugin-import": "^2.8.0",
     "ethjs-query": "^0.2.9",
     "express": "^4.15.4",
-    "watchify": "^3.9.0"
+    "watchify": "^4.0.0"
   }
 }
