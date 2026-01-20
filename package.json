@@ -24,7 +24,7 @@
     "iframe": "^1.0.0",
     "iframe-stream": "^3.0.0",
     "json-rpc-engine": "^3.1.0",
-    "json-rpc-middleware-stream": "^1.0.0",
+    "json-rpc-middleware-stream": "^2.1.1",
     "obj-multiplex": "^1.0.0",
     "obs-store": "^2.4.1",
     "pump": "^1.0.2"
